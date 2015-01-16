@@ -6,7 +6,7 @@ It's... pre-programmed with rank, species, job, and location of many of the <a h
 Other ship qualities can be modified in real time. You can say "Computer, modify our destination to Kronos." and the next time you ask for the ship's location it will be Kronos (Not too realistic, but I wanted to make it a bit more dynamic).
 
 
-HERES THE GRAMMAR: 
+~ * AND NOW THE GRAMMAR * ~ 
 
 Computer — This word now must come first (The exception is the captain’s log command.)
 

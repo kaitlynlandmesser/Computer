@@ -34,7 +34,7 @@ If statement based on second word:
 Case statement based on second word: 
 
 	verb	     	=   	open, is, modify, initiate, locate, change, update
-	pronoun    	=   	what
+	pronoun		=   	what
 	adverb      	=   	where
 	identifier    	=    	location, destination, mission, log, <crew member>, destruct
 	crew mem.       =	Captain, Commander, Crewman, Lieutenant, Ensign, Admiral, Lieut. 					Capt. Cmdr. 

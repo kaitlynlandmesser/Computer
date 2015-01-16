@@ -21,11 +21,11 @@ Computer, modify authorization for Crewman <lname> to <#>.
 Computer, initiate auto destruct sequence authorization <#>. 
 
 If statement based on second word: 
-what — location, destination, mission, date 
-where, locate, is — starship, crewman, 
-open — captain’s log
-modify, change, update — crewman (authorization), mission, destination
-initiate — destruct 
+	what — location, destination, mission, date 
+	where, locate, is — starship, crewman, 
+	open — captain’s log
+	modify, change, update — crewman (authorization), mission, destination
+	initiate — destruct 
 
 Case statement based on second word: 
 

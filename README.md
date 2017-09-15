@@ -1,7 +1,7 @@
 # Computer
 
 This is a minimalistic natural language processor. It takes Star Trek themed queries as verbal input and responds. 
-It's... pre-programmed with rank, species, job, and location of many of the <a href = "http://en.wikipedia.org/wiki/List_of_Star_Trek_characters#Main_cast_and_major_characters_of_Star_Trek:_The_Next_Generation_.28TNG.29_and_Movies">TNG crew </a> (yeah okay, i know). So you could say "Computer, where is Captain Picard?" and it will respond with his pre-programmed location, etc. 
+It's... pre-programmed with rank, species, job, and location of many of the <a href = "http://en.wikipedia.org/wiki/List_of_Star_Trek_characters#Main_cast_and_major_characters_of_Star_Trek:_The_Next_Generation_.28TNG.29_and_Movies">TNG crew </a>. So you could say "Computer, where is Captain Picard?" and it will respond with his pre-programmed location, etc. 
 
 Other ship qualities can be modified in real time. You can say "Computer, modify our destination to Kronos." and the next time you ask for the ship's location it will be Kronos (Not too realistic, but I wanted to make it a bit more dynamic).
 
